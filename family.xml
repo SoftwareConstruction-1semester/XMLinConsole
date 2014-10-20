@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<families>
+  <family name="Vang">
+    <father>Ebbe</father>
+    <son>Mikkel</son>
+    <daughter>Liv</daughter>
+  </family>
+  <family name ="Ekwall">
+    <mother>Trine</mother>
+    <daughter>Sophie</daughter>
+    <daughter>Frida</daughter>
+  </family>
+</families>
